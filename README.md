@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/henrix494/frontend_mentor_Extensions-List?tab=readme-ov-file#the-challenge)
+- Live Site URL: [Live site](https://frontend-mentor-extensions-list.vercel.app/)
 
 ## My process
 
